@@ -1,0 +1,24 @@
+{
+    "key":  {
+                "C":  {
+                          "item":  "gastinelweather:outdoor_network_cable"
+                      },
+                "S":  {
+                          "item":  "minecraft:slime_ball"
+                      },
+                "N":  {
+                          "item":  "minecraft:iron_nugget"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "NSN",
+                    " C ",
+                    "N N"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:underground_network_cable",
+                   "count":  4
+               },
+    "type":  "minecraft:crafting_shaped"
+}

@@ -1,0 +1,24 @@
+{
+    "key":  {
+                "C":  {
+                          "item":  "gastinelweather:electric_cable"
+                      },
+                "S":  {
+                          "item":  "minecraft:slime_ball"
+                      },
+                "P":  {
+                          "item":  "minecraft:stone_bricks"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "PSP",
+                    " C ",
+                    "P P"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:underground_electric_cable",
+                   "count":  4
+               },
+    "type":  "minecraft:crafting_shaped"
+}

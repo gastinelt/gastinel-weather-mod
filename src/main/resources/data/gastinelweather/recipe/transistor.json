@@ -1,0 +1,24 @@
+{
+    "key":  {
+                "C":  {
+                          "item":  "minecraft:copper_ingot"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      },
+                "Q":  {
+                          "item":  "minecraft:quartz"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    " C ",
+                    " R ",
+                    " Q "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:transistor",
+                   "count":  4
+               },
+    "type":  "minecraft:crafting_shaped"
+}

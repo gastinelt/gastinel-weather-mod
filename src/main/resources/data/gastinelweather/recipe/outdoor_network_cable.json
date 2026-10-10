@@ -1,0 +1,23 @@
+{
+    "key":  {
+                "C":  {
+                          "item":  "gastinelweather:network_cable"
+                      },
+                "L":  {
+                          "item":  "minecraft:leather"
+                      },
+                "B":  {
+                          "item":  "minecraft:black_dye"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "BCB",
+                    " L "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:outdoor_network_cable",
+                   "count":  4
+               },
+    "type":  "minecraft:crafting_shaped"
+}

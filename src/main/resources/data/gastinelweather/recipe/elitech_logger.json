@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "G":  {
+                          "item":  "minecraft:glass_pane"
+                      },
+                "E":  {
+                          "item":  "gastinelweather:esp32_board"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      },
+                "C":  {
+                          "item":  "minecraft:copper_ingot"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    " G ",
+                    "CEC",
+                    " R "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:elitech_logger",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

@@ -1,0 +1,7 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "gastinelweather:block/underground_network_cable"
+                          }
+                 }
+}

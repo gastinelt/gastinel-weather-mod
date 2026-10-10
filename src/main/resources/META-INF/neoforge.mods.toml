@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="gastinelweather"
+version="1.0.0"
+displayName="GastinelWeatherMod"
+authors="Théo Gastinel"
+description='''Système météo réaliste et déterministe avec prédictions météorologiques, vent 3D, thermiques, adret/ubac et microclimats.'''
+
+[[dependencies.gastinelweather]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.gastinelweather]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.21.2)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "G":  {
+                          "item":  "minecraft:gold_nugget"
+                      },
+                "T":  {
+                          "item":  "gastinelweather:transistor"
+                      },
+                "C":  {
+                          "item":  "minecraft:green_terracotta"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "TGT",
+                    "RCR",
+                    "TGT"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:motherboard",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

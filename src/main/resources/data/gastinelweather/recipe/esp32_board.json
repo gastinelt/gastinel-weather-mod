@@ -1,0 +1,30 @@
+{
+    "key":  {
+                "G":  {
+                          "item":  "minecraft:gold_nugget"
+                      },
+                "T":  {
+                          "item":  "gastinelweather:transistor"
+                      },
+                "Q":  {
+                          "item":  "minecraft:quartz"
+                      },
+                "C":  {
+                          "item":  "minecraft:copper_ingot"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "GT ",
+                    "RQC",
+                    " T "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:esp32_board",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

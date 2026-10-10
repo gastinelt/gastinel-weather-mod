@@ -1,0 +1,76 @@
+{
+    "textures":  {
+                     "particle":  "gastinelweather:block/hydro_turbine",
+                     "texture":  "gastinelweather:block/hydro_turbine"
+                 },
+    "elements":  [
+                     {
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                2,
+                                                                2,
+                                                                14,
+                                                                14
+                                                            ],
+                                                     "texture":  "#texture"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               2,
+                                                               2,
+                                                               14,
+                                                               14
+                                                           ],
+                                                    "texture":  "#texture"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                2,
+                                                                2,
+                                                                14,
+                                                                14
+                                                            ],
+                                                     "texture":  "#texture"
+                                                 },
+                                       "up":  {
+                                                  "uv":  [
+                                                             2,
+                                                             2,
+                                                             14,
+                                                             14
+                                                         ],
+                                                  "texture":  "#texture"
+                                              },
+                                       "east":  {
+                                                    "uv":  [
+                                                               2,
+                                                               2,
+                                                               14,
+                                                               14
+                                                           ],
+                                                    "texture":  "#texture"
+                                                },
+                                       "down":  {
+                                                    "uv":  [
+                                                               2,
+                                                               2,
+                                                               14,
+                                                               14
+                                                           ],
+                                                    "texture":  "#texture"
+                                                }
+                                   },
+                         "from":  [
+                                      2,
+                                      0,
+                                      2
+                                  ],
+                         "to":  [
+                                    14,
+                                    16,
+                                    14
+                                ]
+                     }
+                 ]
+}

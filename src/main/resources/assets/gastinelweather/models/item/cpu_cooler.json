@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "gastinelweather:item/cpu_cooler"
+                 },
+    "parent":  "minecraft:item/generated"
+}

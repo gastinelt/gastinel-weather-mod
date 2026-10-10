@@ -1,0 +1,19 @@
+{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "gastinelweather:block/directional_antenna"
+                                      },
+                     "facing=south":  {
+                                          "model":  "gastinelweather:block/directional_antenna",
+                                          "y":  180
+                                      },
+                     "facing=east":  {
+                                         "model":  "gastinelweather:block/directional_antenna",
+                                         "y":  90
+                                     },
+                     "facing=west":  {
+                                         "model":  "gastinelweather:block/directional_antenna",
+                                         "y":  270
+                                     }
+                 }
+}

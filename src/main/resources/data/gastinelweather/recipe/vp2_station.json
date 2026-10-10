@@ -1,0 +1,33 @@
+{
+    "key":  {
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "A":  {
+                          "item":  "gastinelweather:anemometer"
+                      },
+                "L":  {
+                          "item":  "minecraft:lightning_rod"
+                      },
+                "S":  {
+                          "item":  "minecraft:daylight_detector"
+                      },
+                "P":  {
+                          "item":  "gastinelweather:rain_gauge"
+                      },
+                "E":  {
+                          "item":  "gastinelweather:esp32_board"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "APS",
+                    "IEI",
+                    " L "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:vp2_station",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

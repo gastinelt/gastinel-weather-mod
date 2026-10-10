@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "C":  {
+                          "item":  "gastinelweather:power_cable"
+                      },
+                "T":  {
+                          "item":  "gastinelweather:transistor"
+                      },
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "ITI",
+                    "RCR",
+                    "ITI"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:power_supply",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

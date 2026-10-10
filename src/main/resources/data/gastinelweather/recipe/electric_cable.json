@@ -1,0 +1,21 @@
+{
+    "key":  {
+                "C":  {
+                          "item":  "minecraft:copper_ingot"
+                      },
+                "W":  {
+                          "item":  "minecraft:black_wool"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "WCW",
+                    "WCW",
+                    "WCW"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:electric_cable",
+                   "count":  8
+               },
+    "type":  "minecraft:crafting_shaped"
+}

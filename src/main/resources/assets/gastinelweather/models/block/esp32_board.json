@@ -1,0 +1,76 @@
+{
+    "textures":  {
+                     "particle":  "gastinelweather:block/esp32_board",
+                     "texture":  "gastinelweather:block/esp32_board"
+                 },
+    "elements":  [
+                     {
+                         "faces":  {
+                                       "north":  {
+                                                     "uv":  [
+                                                                2,
+                                                                2,
+                                                                14,
+                                                                4
+                                                            ],
+                                                     "texture":  "#texture"
+                                                 },
+                                       "west":  {
+                                                    "uv":  [
+                                                               2,
+                                                               2,
+                                                               14,
+                                                               4
+                                                           ],
+                                                    "texture":  "#texture"
+                                                },
+                                       "south":  {
+                                                     "uv":  [
+                                                                2,
+                                                                2,
+                                                                14,
+                                                                4
+                                                            ],
+                                                     "texture":  "#texture"
+                                                 },
+                                       "up":  {
+                                                  "uv":  [
+                                                             2,
+                                                             2,
+                                                             14,
+                                                             14
+                                                         ],
+                                                  "texture":  "#texture"
+                                              },
+                                       "east":  {
+                                                    "uv":  [
+                                                               2,
+                                                               2,
+                                                               14,
+                                                               4
+                                                           ],
+                                                    "texture":  "#texture"
+                                                },
+                                       "down":  {
+                                                    "uv":  [
+                                                               2,
+                                                               2,
+                                                               14,
+                                                               14
+                                                           ],
+                                                    "texture":  "#texture"
+                                                }
+                                   },
+                         "from":  [
+                                      3,
+                                      0,
+                                      3
+                                  ],
+                         "to":  [
+                                    13,
+                                    2,
+                                    13
+                                ]
+                     }
+                 ]
+}

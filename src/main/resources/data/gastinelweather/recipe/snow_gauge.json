@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "Q":  {
+                          "item":  "minecraft:quartz"
+                      },
+                "E":  {
+                          "item":  "minecraft:ender_eye"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      },
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    " E ",
+                    "IQI",
+                    "IRI"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:snow_gauge",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

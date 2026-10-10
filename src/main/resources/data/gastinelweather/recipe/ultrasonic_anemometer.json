@@ -1,0 +1,30 @@
+{
+    "key":  {
+                "Q":  {
+                          "item":  "minecraft:quartz"
+                      },
+                "E":  {
+                          "item":  "gastinelweather:esp32_board"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      },
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "A":  {
+                          "item":  "minecraft:amethyst_shard"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "AQA",
+                    "AEA",
+                    "IRI"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:ultrasonic_anemometer",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

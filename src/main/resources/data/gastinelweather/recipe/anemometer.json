@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "L":  {
+                          "item":  "minecraft:lightning_rod"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      },
+                "I":  {
+                          "item":  "minecraft:iron_bars"
+                      },
+                "B":  {
+                          "item":  "minecraft:bowl"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "BLB",
+                    " I ",
+                    "BR "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:anemometer",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

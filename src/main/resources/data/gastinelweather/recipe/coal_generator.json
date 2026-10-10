@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "C":  {
+                          "item":  "minecraft:cauldron"
+                      },
+                "P":  {
+                          "item":  "minecraft:piston"
+                      },
+                "F":  {
+                          "item":  "minecraft:blast_furnace"
+                      },
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "ICI",
+                    "IFI",
+                    "IPI"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:coal_generator",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

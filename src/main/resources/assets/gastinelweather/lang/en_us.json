@@ -1,0 +1,37 @@
+{
+  "itemGroup.gastinelweather.weather_tech_tab": "Gastinel Weather & Tech",
+
+  "item.gastinelweather.elitech_logger": "Elitech Weather Logger",
+  "item.gastinelweather.motherboard": "Motherboard",
+  "item.gastinelweather.cpu": "CPU",
+  "item.gastinelweather.cpu_cooler": "CPU Cooler",
+  "item.gastinelweather.gpu": "Graphics Card (GPU)",
+  "item.gastinelweather.power_supply": "Power Supply (PSU)",
+  "item.gastinelweather.power_cable": "Power Cable",
+  "item.gastinelweather.transistor": "Transistor",
+
+  "block.gastinelweather.vp2_station": "Vantage Pro 2 Weather Station (VP2)",
+  "block.gastinelweather.anemometer": "Cup Anemometer",
+  "block.gastinelweather.ultrasonic_anemometer": "Ultrasonic Anemometer (3D)",
+  "block.gastinelweather.rain_gauge": "Tipping Bucket Rain Gauge",
+  "block.gastinelweather.snow_gauge": "Laser Snow Gauge",
+
+  "block.gastinelweather.esp32_board": "ESP32 Microcontroller Board",
+  "block.gastinelweather.directional_antenna": "Directional Antenna (Yagi)",
+  "block.gastinelweather.omni_antenna": "360° Omnidirectional Antenna",
+  "block.gastinelweather.vp2_console": "VP2 Receiver Console",
+
+  "block.gastinelweather.pc_case": "Weather Server / PC Case",
+  "block.gastinelweather.monitor": "Weather Monitor Display",
+  "block.gastinelweather.network_router": "Network Box / Router",
+  "block.gastinelweather.network_cable": "Network Cable (Indoor)",
+  "block.gastinelweather.outdoor_network_cable": "Outdoor Network Cable",
+  "block.gastinelweather.underground_network_cable": "Underground Network Cable",
+
+  "block.gastinelweather.wind_turbine": "Aerodynamic Wind Turbine",
+  "block.gastinelweather.hydro_turbine": "Submerged Hydro Turbine",
+  "block.gastinelweather.coal_generator": "Coal Power Generator",
+  "block.gastinelweather.exhaust_chimney": "Exhaust Chimney",
+  "block.gastinelweather.electric_cable": "Electric Cable",
+  "block.gastinelweather.underground_electric_cable": "Underground Electric Cable"
+}

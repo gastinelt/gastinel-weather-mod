@@ -1,0 +1,33 @@
+{
+    "key":  {
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "V":  {
+                          "item":  "gastinelweather:gpu"
+                      },
+                "C":  {
+                          "item":  "gastinelweather:cpu_cooler"
+                      },
+                "G":  {
+                          "item":  "minecraft:tinted_glass"
+                      },
+                "P":  {
+                          "item":  "gastinelweather:power_supply"
+                      },
+                "M":  {
+                          "item":  "gastinelweather:motherboard"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "IGI",
+                    "VCM",
+                    "IPI"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:pc_case",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

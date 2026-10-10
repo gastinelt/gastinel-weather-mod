@@ -1,0 +1,7 @@
+{
+    "variants":  {
+                     "":  {
+                              "model":  "gastinelweather:block/electric_cable"
+                          }
+                 }
+}

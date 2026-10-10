@@ -1,0 +1,6 @@
+{
+    "textures":  {
+                     "layer0":  "gastinelweather:item/power_supply"
+                 },
+    "parent":  "minecraft:item/generated"
+}

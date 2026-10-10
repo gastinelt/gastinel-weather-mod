@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "G":  {
+                          "item":  "minecraft:gold_nugget"
+                      },
+                "T":  {
+                          "item":  "gastinelweather:transistor"
+                      },
+                "Q":  {
+                          "item":  "minecraft:quartz"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "GTG",
+                    "RQR",
+                    "GTG"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:cpu",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

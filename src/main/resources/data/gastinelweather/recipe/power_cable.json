@@ -1,0 +1,21 @@
+{
+    "key":  {
+                "N":  {
+                          "item":  "minecraft:iron_nugget"
+                      },
+                "C":  {
+                          "item":  "gastinelweather:electric_cable"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    " N ",
+                    " C ",
+                    " C "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:power_cable",
+                   "count":  2
+               },
+    "type":  "minecraft:crafting_shaped"
+}

@@ -1,0 +1,37 @@
+{
+  "itemGroup.gastinelweather.weather_tech_tab": "Gastinel Weather & Tech",
+
+  "item.gastinelweather.elitech_logger": "Enregistreur Météo Elitech",
+  "item.gastinelweather.motherboard": "Carte Mère Informatique",
+  "item.gastinelweather.cpu": "Processeur (CPU)",
+  "item.gastinelweather.cpu_cooler": "Ventirad CPU",
+  "item.gastinelweather.gpu": "Carte Graphique (GPU)",
+  "item.gastinelweather.power_supply": "Alimentation PC (PSU)",
+  "item.gastinelweather.power_cable": "Câble d'Alimentation 230V",
+  "item.gastinelweather.transistor": "Transistor Électronique",
+
+  "block.gastinelweather.vp2_station": "Station Météo Vantage Pro 2 (VP2)",
+  "block.gastinelweather.anemometer": "Anémomètre à Coupelles",
+  "block.gastinelweather.ultrasonic_anemometer": "Anémomètre à Ultrasons (3D)",
+  "block.gastinelweather.rain_gauge": "Pluviomètre à Augets",
+  "block.gastinelweather.snow_gauge": "Niveomètre Laser",
+
+  "block.gastinelweather.esp32_board": "Carte Microcontrôleur ESP32",
+  "block.gastinelweather.directional_antenna": "Antenne Dirigeable (Yagi)",
+  "block.gastinelweather.omni_antenna": "Antenne 360° Omnidirectionnelle",
+  "block.gastinelweather.vp2_console": "Console Réceptrice VP2",
+
+  "block.gastinelweather.pc_case": "Boîtier / Tour PC Météo",
+  "block.gastinelweather.monitor": "Écran Moniteur Météo",
+  "block.gastinelweather.network_router": "Box / Routeur Réseau",
+  "block.gastinelweather.network_cable": "Câble Réseau (Intérieur)",
+  "block.gastinelweather.outdoor_network_cable": "Câble Réseau Extérieur (Anti-UV)",
+  "block.gastinelweather.underground_network_cable": "Câble Réseau Extérieur Souterrain",
+
+  "block.gastinelweather.wind_turbine": "Générateur Éolien Aérodynamique",
+  "block.gastinelweather.hydro_turbine": "Hydrolienne Immergée (Hélice pour l'eau)",
+  "block.gastinelweather.coal_generator": "Centrale Thermique à Charbon",
+  "block.gastinelweather.exhaust_chimney": "Cheminée d'Évacuation",
+  "block.gastinelweather.electric_cable": "Câble Électrique",
+  "block.gastinelweather.underground_electric_cable": "Câble Électrique Souterrain"
+}

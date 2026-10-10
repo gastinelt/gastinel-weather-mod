@@ -1,0 +1,24 @@
+{
+    "key":  {
+                "S":  {
+                          "item":  "minecraft:string"
+                      },
+                "B":  {
+                          "item":  "minecraft:blue_dye"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "BSB",
+                    "SRS",
+                    " S "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:network_cable",
+                   "count":  8
+               },
+    "type":  "minecraft:crafting_shaped"
+}

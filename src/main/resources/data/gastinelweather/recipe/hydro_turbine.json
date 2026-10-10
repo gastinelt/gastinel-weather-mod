@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "C":  {
+                          "item":  "minecraft:copper_ingot"
+                      },
+                "R":  {
+                          "item":  "minecraft:redstone"
+                      },
+                "P":  {
+                          "item":  "minecraft:prismarine_shard"
+                      },
+                "I":  {
+                          "item":  "minecraft:iron_block"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "CIC",
+                    "CCC",
+                    "PRP"
+                ],
+    "result":  {
+                   "id":  "gastinelweather:hydro_turbine",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

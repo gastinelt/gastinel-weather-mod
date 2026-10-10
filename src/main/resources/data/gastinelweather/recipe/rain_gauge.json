@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "G":  {
+                          "item":  "minecraft:glass_pane"
+                      },
+                "R":  {
+                          "item":  "minecraft:repeater"
+                      },
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      },
+                "H":  {
+                          "item":  "minecraft:hopper"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "GHG",
+                    "IRI",
+                    " I "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:rain_gauge",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}

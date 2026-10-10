@@ -1,0 +1,27 @@
+{
+    "key":  {
+                "G":  {
+                          "item":  "minecraft:gold_ingot"
+                      },
+                "M":  {
+                          "item":  "gastinelweather:motherboard"
+                      },
+                "C":  {
+                          "item":  "gastinelweather:cpu"
+                      },
+                "I":  {
+                          "item":  "minecraft:iron_ingot"
+                      }
+            },
+    "category":  "misc",
+    "pattern":  [
+                    "IGI",
+                    "GCG",
+                    " M "
+                ],
+    "result":  {
+                   "id":  "gastinelweather:gpu",
+                   "count":  1
+               },
+    "type":  "minecraft:crafting_shaped"
+}
