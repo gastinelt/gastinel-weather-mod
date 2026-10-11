@@ -64,3 +64,10 @@ id_ed25519*
 *.mkv
 *.wav
 *.flac
+
+# le wrapper Gradle doit etre versionne pour que ./gradlew fonctionne
+!gradle/wrapper/gradle-wrapper.jar
+
+# fichiers de travail
+*.class
+*.avant-*
